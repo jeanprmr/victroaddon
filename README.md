@@ -1,1 +1,1 @@
-Code for VictroAddon to use into a NodeMcu ESP8266.
+VictroAddon is a code to run with VictroBrain framework. Please choose your chip in the folders inside the project and read how to install in each chip kind.
